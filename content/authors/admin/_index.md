@@ -38,6 +38,9 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/painkrishnendu
+- icon: youtube
+  icon_pack: fab
+  link: https://www.youtube.com/channel/UC1rIL2Jvih7xuDcF_2psGuw
 superuser: true
 title: Krishnendu Pain
 ---
