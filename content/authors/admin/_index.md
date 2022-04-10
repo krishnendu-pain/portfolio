@@ -1,52 +1,47 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio:
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Applied Statistics & Operations Research
+    institution: Indian Statistical Institute
+    year: 2022
+  - course: BSc (Hons.) in Mathematics
+    institution: Ramakrishna Mission Residential College, Narendrapur
+    year: 2020
 email: ""
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Operations Research
+- Reinforcement Learning
+- Sports Analytics
+- Probabilistic Natural Language Processing
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: Indian Statistical Institute
+  url: https://www.isibang.ac.in/~sqc/MS-QMS.html
+role: MS Student & Data Scientist
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: mailto:mqms2005@isibang.ac.in
 - display:
     header: true
   icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/KrishnenduPain
+# - icon: graduation-cap
+#  icon_pack: fas
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/krishnendu-pain
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/painkrishnendu
 superuser: true
-title: Alice Bighetti (吳恩達)
+title: Krishnendu Pain
 ---
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi! Welcome to my space. I am Krishnendu Pain, a 2nd year MS student of Applied Statistics and Operations Research (official course name is 'Quality Management Science') at Indian Statistical Institute. Currently I am working as a Data Science Intern at Aditya Birla Finance Limited. My research interest includes Operations Research (Linear & Non-linear Optimization, Scheduling problem), Reinforcement Learning, Sports Analytics and Probabilistic NLP (and intersection of two or more of these topics!!).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Krishnendu_Pain_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
