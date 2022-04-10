@@ -9,6 +9,10 @@ links:
   icon_pack: fab
   name: GitHub
   url: https://github.com/krishnendu-pain/stock-trading-mdp
+- icon: twitter
+  icon_pack: fab
+  name: Follow me
+  url: https://twitter.com/KrishnenduPain
 #slides: example
 summary: Developed a Dynamic programming algorithm for stock trading in Indian market. Analyzed the result for different stocks and made a comparison between policies and approaches.
 tags:
